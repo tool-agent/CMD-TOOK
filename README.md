@@ -47,7 +47,6 @@ graph LR
   B --> C[Edge Computing]
   C --> D[Secure Output]
   D --> E[Hack the Planet]
-
 🧬 Dự án tiêu biểu
 • [Hacker-Tools-V1]: Bộ công cụ tự động hóa qua dòng lệnh.
 • [AI-Mobile-Security]: Tích hợp AI để phát hiện mã độc trên Android.
@@ -62,4 +61,3 @@ graph LR
 
 <code>[SYSTEM HALTED: Happy Coding, CMD-TOOK!]</code>
 </p>
-
