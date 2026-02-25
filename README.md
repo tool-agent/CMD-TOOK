@@ -1,64 +1,55 @@
-# <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Robot.png" width="40" /> Mobile & AI Engineer | [Tên Của Bạn]
+# <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Robot.png" width="45" /> Mobile & AI Engineer | HACKER CMD TOOL
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=soft&color=auto&height=200&section=header&text=Building%20Intelligent%20Experiences%20📱&fontSize=50&animation=fadeIn" />
+  <img src="https://capsule-render.vercel.app/api?type=soft&color=auto&height=200&section=header&text=HACKER%20CMD%20TOOL%20⚡&fontSize=60&animation=fadeIn" />
 </p>
 
 ## 🤖 Về Tôi
-Tôi là một nhà phát triển đam mê việc đưa **Trí tuệ nhân tạo** vào trong lòng bàn tay người dùng. Tôi tin rằng tương lai của Mobile không chỉ là giao diện đẹp mà còn là sự thấu hiểu người dùng thông qua dữ liệu.
+Tôi là một nhà phát triển tập trung vào việc tối ưu hóa hiệu năng **Mobile** và tích hợp **Trí tuệ nhân tạo**. Với tư duy của một "Hacker" (người giải quyết vấn đề), tôi luôn tìm cách biến những dòng code phức tạp thành trải nghiệm người dùng thông minh.
 
-- 📱 **Mobile Stack:** Chuyên gia Flutter / Swift / Kotlin.
-- 🧠 **AI Focus:** On-device ML, TensorFlow Lite, CoreML & LLM Integration.
-- ⚡ **Châm ngôn:** "Make it run, make it right, make it smart."
-
----
-
-## 🚀 Lĩnh vực nghiên cứu
-| Feature | Technologies |
-| :--- | :--- |
-| **Mobile App** | Flutter, React Native, Swift, Jetpack Compose |
-| **AI / ML** | PyTorch, TensorFlow Lite, OpenCV, LangChain |
-| **Backend** | Fast API (Python), Firebase, Node.js |
-| **Edge Computing** | Mediapipe, CoreML, Quantization |
+- 📱 **Mobile Stack:** Flutter, Kotlin, Swift & Jetpack Compose.
+- 🧠 **AI Focus:** On-device ML, TensorFlow Lite & LLM Optimization.
+- 🛠️ **Tooling:** Automation scripts & Command Line Interfaces.
 
 ---
 
-## 🛠️ Ngôn ngữ & Công cụ AI
+## 📊 Chỉ số đóng góp (GitHub Stats)
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=CMD-100K&show_icons=true&theme=tokyonight&count_private=true&custom_title=System%20Analysis" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CMD-100K&layout=compact&langs_count=7&theme=tokyonight" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=CMD-100K&theme=tokyonight" />
+</p>
+
+---
+
+## 🛠️ Công nghệ chủ chốt
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,flutter,dart,swift,kotlin,cpp,githubactions,aws" />
+    <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,flutter,dart,swift,kotlin,cpp,githubactions,aws,linux,docker" />
   </a>
 </p>
 
 ---
 
-## 📈 Tình trạng "Bộ não" GitHub
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=[USER_NAME]&show_icons=true&theme=tokyonight&count_private=true&custom_title=AI%20Developer%20Stats" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=[USER_NAME]&layout=compact&langs_count=7&theme=tokyonight" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=[USER_NAME]&theme=tokyonight" />
-</p>
-
----
-
 ## 🧬 Dự án tiêu biểu
-- **[SmartCam AI]**: Ứng dụng nhận diện vật thể thời gian thực bằng Flutter & TensorFlow Lite.
-- **[VoiceAssist]**: Tích hợp GPT-4 vào trợ lý ảo trên iOS/Android.
-- **[HealthTrack]**: Dự đoán tình trạng sức khỏe dựa trên dữ liệu cảm biến smartphone.
+- **[SmartCam AI]**: Nhận diện vật thể thời gian thực tối ưu cho Mobile.
+- **[CMD-Assistant]**: Trợ lý ảo tích hợp LLM hoạt động qua Command Line.
+- **[Security Scanner]**: Công cụ quét lỗ hổng bảo mật ứng dụng Mobile.
 
 ---
 
-## 🤝 Kết nối mạng lưới thần kinh
+## 🤝 Kết nối mạng lưới
 <p align="left">
-<a href="https://linkedin.com/in/username"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-<a href="mailto:email@example.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-<a href="https://huggingface.co/username"><img src="https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-Yellow?style=for-the-badge" /></a>
+<a href="https://linkedin.com/in/YOUR_LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="mailto:your-email@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+<a href="https://huggingface.co/YOUR_HF"><img src="https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-Yellow?style=for-the-badge" /></a>
 </p>
 
 ---
+
 <p align="center">
   <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" alt="snake" />
 </p>
