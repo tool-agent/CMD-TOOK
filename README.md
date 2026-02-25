@@ -1,171 +1,64 @@
-cd CMD-TOOK
+# <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Robot.png" width="40" /> Mobile & AI Engineer | [Tên Của Bạn]
 
-# Tạo .gitignore
-echo node_modules/ > .gitignore
-echo dist/ >> .gitignore
-echo *.log >> .gitignore
-echo .env >> .gitignore
-echo .DS_Store >> .gitignore
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=soft&color=auto&height=200&section=header&text=Building%20Intelligent%20Experiences%20📱&fontSize=50&animation=fadeIn" />
+</p>
 
-# Tạo README.md
-echo # CMD-TOOK > README.md
-echo. >> README.md
-echo A professional remote terminal application >> README.md
+## 🤖 Về Tôi
+Tôi là một nhà phát triển đam mê việc đưa **Trí tuệ nhân tạo** vào trong lòng bàn tay người dùng. Tôi tin rằng tương lai của Mobile không chỉ là giao diện đẹp mà còn là sự thấu hiểu người dùng thông qua dữ liệu.
 
-# Tạo backend folder
-mkdir backend
-mkdir frontend\src\components
-mkdir frontend\src\styles
+- 📱 **Mobile Stack:** Chuyên gia Flutter / Swift / Kotlin.
+- 🧠 **AI Focus:** On-device ML, TensorFlow Lite, CoreML & LLM Integration.
+- ⚡ **Châm ngôn:** "Make it run, make it right, make it smart."
 
-# Tạo backend/package.json
-(
-echo {
-echo   "name": "cmd-took-backend",
-echo   "version": "1.0.0",
-echo   "main": "server.js",
-echo   "scripts": {
-echo     "start": "node server.js",
-echo     "dev": "nodemon server.js"
-echo   },
-echo   "dependencies": {
-echo     "express": "^4.18.2",
-echo     "cors": "^2.8.5",
-echo     "dotenv": "^16.0.3"
-echo   }
-echo }
-) > backend\package.json
+---
 
-# Tạo backend/server.js
-(
-echo const express = require('express');
-echo const cors = require('cors');
-echo const app = express();
-echo app.use(cors(^)^);
-echo app.use(express.json(^)^);
-echo const PORT = 3001;
-echo app.get('/api/system', (req, res^) =^> { res.json({status: 'ok'}^); }^);
-echo app.listen(PORT, () =^> { console.log(`Server on port ${PORT}`^); }^);
-) > backend\server.js
+## 🚀 Lĩnh vực nghiên cứu
+| Feature | Technologies |
+| :--- | :--- |
+| **Mobile App** | Flutter, React Native, Swift, Jetpack Compose |
+| **AI / ML** | PyTorch, TensorFlow Lite, OpenCV, LangChain |
+| **Backend** | Fast API (Python), Firebase, Node.js |
+| **Edge Computing** | Mediapipe, CoreML, Quantization |
 
-# Tạo frontend/package.json
-(
-echo {
-echo   "name": "cmd-took-frontend",
-echo   "version": "1.0.0",
-echo   "type": "module",
-echo   "scripts": {
-echo     "dev": "vite",
-echo     "build": "vite build"
-echo   },
-echo   "dependencies": {
-echo     "react": "^18.2.0",
-echo     "react-dom": "^18.2.0"
-echo   }
-echo }
-) > frontend\package.json
+---
 
-# Tạo frontend/vite.config.js
-(
-echo import { defineConfig } from 'vite'
-echo import react from '@vitejs/plugin-react'
-echo export default defineConfig({
-echo   plugins: [react(^)]
-echo }^)
-) > frontend\vite.config.js
+## 🛠️ Ngôn ngữ & Công cụ AI
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,flutter,dart,swift,kotlin,cpp,githubactions,aws" />
+  </a>
+</p>
 
-# Tạo frontend/index.html
-(
-echo ^<!DOCTYPE html^>
-echo ^<html^>
-echo ^<head^>
-echo     ^<meta charset="UTF-8"^>
-echo     ^<title^>CMD-TOOK^</title^>
-echo ^</head^>
-echo ^<body^>
-echo     ^<div id="root"^>^</div^>
-echo     ^<script type="module" src="/src/main.jsx"^>^</script^>
-echo ^</body^>
-echo ^</html^>
-) > frontend\index.html
+---
 
-# Tạo frontend/src/main.jsx
-(
-echo import React from 'react'
-echo import ReactDOM from 'react-dom/client'
-echo import App from './App.jsx'
-echo import './App.css'
-echo ReactDOM.createRoot(document.getElementById('root'^)^).render(
-echo   ^<React.StrictMode^>
-echo     ^<App /^>
-echo   ^</React.StrictMode^>
-echo ^)
-) > frontend\src\main.jsx
+## 📈 Tình trạng "Bộ não" GitHub
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=[USER_NAME]&show_icons=true&theme=tokyonight&count_private=true&custom_title=AI%20Developer%20Stats" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=[USER_NAME]&layout=compact&langs_count=7&theme=tokyonight" />
+</p>
 
-# Tạo frontend/src/App.jsx
-(
-echo import { useState } from 'react'
-echo import './App.css'
-echo function App(^) {
-echo   const [input, setInput] = useState('')
-echo   return (
-echo     ^<div className="app"^>
-echo       ^<h1^>CMD-TOOK^</h1^>
-echo       ^<input value={input} onChange={(e^) =^> setInput(e.target.value^)} /^>
-echo     ^</div^>
-echo   ^)
-echo }
-echo export default App
-) > frontend\src\App.jsx
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=[USER_NAME]&theme=tokyonight" />
+</p>
 
-# Tạo frontend/src/App.css
-(
-echo * {
-echo   margin: 0;
-echo   padding: 0;
-echo }
-echo body {
-echo   background: #000;
-echo   color: #00ff00;
-echo   font-family: 'Courier New', monospace;
-echo }
-echo .app {
-echo   width: 100vw;
-echo   height: 100vh;
-echo }
-) > frontend\src\App.css
+---
 
-# Tạo frontend/src/components/Terminal.jsx
-(
-echo export default function Terminal({ output ^} ^) {
-echo   return ^<div className="terminal"^>{output.map((line, idx^) =^> ^<div key={idx}^>{line}^</div^>^)^}^</div^>
-echo }
-) > frontend\src\components\Terminal.jsx
+## 🧬 Dự án tiêu biểu
+- **[SmartCam AI]**: Ứng dụng nhận diện vật thể thời gian thực bằng Flutter & TensorFlow Lite.
+- **[VoiceAssist]**: Tích hợp GPT-4 vào trợ lý ảo trên iOS/Android.
+- **[HealthTrack]**: Dự đoán tình trạng sức khỏe dựa trên dữ liệu cảm biến smartphone.
 
-# Tạo frontend/src/components/Keyboard.jsx
-(
-echo export default function Keyboard(^) {
-echo   return ^<div className="keyboard"^>Keyboard^</div^>
-echo }
-) > frontend\src\components\Keyboard.jsx
+---
 
-# Tạo frontend/src/components/ServerStatus.jsx
-(
-echo export default function ServerStatus(^) {
-echo   return ^<div className="server-status"^>Server Status^</div^>
-echo }
-) > frontend\src\components\ServerStatus.jsx
+## 🤝 Kết nối mạng lưới thần kinh
+<p align="left">
+<a href="https://linkedin.com/in/username"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="mailto:email@example.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+<a href="https://huggingface.co/username"><img src="https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-Yellow?style=for-the-badge" /></a>
+</p>
 
-# Tạo CSS files
-(
-echo .terminal { background: #000; color: #00ff00; }
-) > frontend\src\styles\Terminal.css
-
-(
-echo .keyboard { background: #111; }
-) > frontend\src\styles\Keyboard.css
-
-(
-echo .server-status { background: #222; }
-) > frontend\src\styles\ServerStatus.css
-
-echo ✅ Xong! Tất cả files đã tạo!
+---
+<p align="center">
+  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" alt="snake" />
+</p>
